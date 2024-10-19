@@ -33,3 +33,6 @@ Create a new server connection
     database: postgres
     username: postgres
     password: postgres
+
+Error Handling through Chatgpt
+https://chatgpt.com/share/6713c49e-bdb0-8011-b5f5-90bb06101ad0
